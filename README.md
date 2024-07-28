@@ -1,1 +1,1 @@
-"# vendas-crud-spring-web-api-restful" 
+Sistema básico em Java demostrando a utilização Web API Restful do Spring Boot e H2 Database.
